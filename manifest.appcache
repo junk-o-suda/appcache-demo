@@ -1,5 +1,8 @@
 CACHE MANIFEST
-# v1
+# v2
+
+CACHE:
+styles.css
 
 NETWORK:
 *
