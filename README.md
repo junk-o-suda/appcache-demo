@@ -2,6 +2,13 @@
 
 Sample web page/application put together to demonstrate appcache.
 
+## Attribution and References
+
+1. [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
+2. [Jake Archibald: AppCache: Douchebag](https://www.youtube.com/watch?v=cR-TP6jOSQM) - [code](https://github.com/jakearchibald/appcache-demo), [twitter](https://twitter.com/jaffathecake)
+3. [MDN Article](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache)
+4. [Wikipedia Article](https://en.wikipedia.org/wiki/Cache_manifest_in_HTML5)
+
 ## LICENSE
 
 Copyright 2015, [Sudaraka Wijesinghe](http://sudaraka.org/contact).
